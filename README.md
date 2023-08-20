@@ -18,7 +18,7 @@ Why not to have such a site in common use, I do not know. It seems to me that ap
 
 I'm planning to start working exactly on the software part of such a service during LearnPython courses soon, perhaps, something will come out in a couple of months.
 
-Проект открыт для легальных (кто-то из соавторов может находится в России или Белоруссии) коллабораций. Вопросы капитализации можно будет обсудить после сборки рабочего прототипа.
+Проект открыт для легальных (кто-то из соавторов может находиться в России или Белоруссии) коллабораций. Вопросы капитализации и монетизации можно будет обсудить после сборки рабочего прототипа. Я пока заинтересована в максимально дешевом для пользователя продукте.
 
 The project is open for legal (somebody of the co-authors may lives in Russia, or Belarus) collaborations. Capitalization issues can be discussed after the minimal deploy of the working prototype.
 
