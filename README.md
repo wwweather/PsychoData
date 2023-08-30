@@ -30,3 +30,5 @@ Sorry, I can not work for pizza and pocketmoney right now. :-)
 [В этой работе](https://elar.urfu.ru/bitstream/10995/56074/1/m_th_a.o.belyaeva_2017.pdf) занимались созданием комплекса для психодиагностического тестирования учащихся.
 
 [Комплекс психодиагностики типа детектора лжи](https://egoscop.ru/). Шутка.
+
+[Дневник настроения по методике СМЭР/КПТ в форме диалога с виртуальным ассистентом](https://apps.apple.com/ru/app/qualia/id1567289315).
