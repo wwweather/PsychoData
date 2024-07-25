@@ -15,11 +15,6 @@ If the idea is implemented as a public application, it can help both the average
 Why not to have such a site in common use, I do not know. It seems to me that applications for orthorexics were also once made, based on the experience of keeping food diaries of paper.
 
 
-Я планирую начать заниматься непосредственно программной частью такого сервиса на курсах LearnPython, может, за пару месяцев выйдет что-то. _Потому что найти компанию сложно, а заинтересовать кого-то можно в клубе по интересам, например, начать варганить пораньше и не переутомиться от даже не оплачиваемой деятельности — зачем._
-
-I'm planning to start working exactly on the software part of such a service during LearnPython courses soon, perhaps, something will come out in a couple of months.
-
-
 Проект открыт для легальных (кто-то из соавторов может находиться в России или Белоруссии) коллабораций. Вопросы капитализации и монетизации можно будет обсудить после сборки рабочего прототипа. Я пока заинтересована в максимально дешевом для пользователя продукте.
 
 The project is open for legal (somebody of the co-authors may lives in Russia, or Belarus) collaborations. Capitalization issues can be discussed after the minimal deploy of the working prototype.
