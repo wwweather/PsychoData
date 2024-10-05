@@ -17,7 +17,7 @@ Why not to have such a site in common use, I do not know. It seems to me that ap
 
 Проект открыт для легальных (кто-то из соавторов может находиться в России или Белоруссии) коллабораций. Вопросы капитализации и монетизации можно будет обсудить после сборки рабочего прототипа. Я пока заинтересована в максимально дешевом для пользователя продукте.
 
-The project is open for legal (somebody of the co-authors may lives in Russia, or Belarus) collaborations. Capitalization issues can be discussed after the minimal deploy of the working prototype.
+The project is open for legal collaborations. Capitalization issues can be discussed after the minimal deploy of the working prototype.
 
 Sorry, I can not work for pizza and pocketmoney right now. :-) 
 
@@ -39,4 +39,3 @@ Sorry, I can not work for pizza and pocketmoney right now. :-)
 жизнедеятельности отдельного человека, который, например, проходит динамическое наблюдения у какого-то специалиста когнитивных наук. Психология медициной прямо не считается, и за нейроактивными веществами
 без рецепта от специалиста не прийти. Узнать историю жизни иногда заведомо затруднительно, и объективно оценить свое состояние могут помогать давно разработанные для таких целей тестирования.
 
-Добавиться [обсуждать проект в Notion](https://www.notion.so/monadki/PsychoData-d7a69ee841344c439e0490f12a348675)
